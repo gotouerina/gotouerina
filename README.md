@@ -1,7 +1,7 @@
 ### Hi there 👋
+I come from China,
+中文,English,にほんご ALL OK.
 
-
-Here are some ideas to get you started:
 gotouerina means 五島 絵梨奈 ,
 character in しんがつよか
 
