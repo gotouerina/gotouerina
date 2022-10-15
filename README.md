@@ -2,6 +2,8 @@
 I come from China,
 中文,English,にほんご ALL OK.
 
+Get my bachelor degree from Shanghai Jiaotong University.
+
 gotouerina means 五島 絵梨奈 ,
 character in しんがつよか
 
