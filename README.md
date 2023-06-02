@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Mypage 👋
 I come from China,
 中文, English, にほんご ALL OK.
 
