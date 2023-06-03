@@ -11,4 +11,4 @@ character in しんがつよか
 - 🌱 I’m currently learning perl, R
 - 👯 I’m looking to collaborate on ecology and math
 - 💬 Ask me about Touhou and Misttrain!
-- 📫 How to reach me: 1197409866@qq.com
+- 📫 How to reach me: kogoorimasaki@outlook.com
