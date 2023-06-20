@@ -15,4 +15,4 @@ RPGmaker MV learning now.
 - 💬 Ask me about Touhou and Misttrain!
 - 📫 How to reach me: kogoorimasaki@outlook.com
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=gotouerina)
