@@ -14,3 +14,5 @@ RPGmaker MV learning now.
 - 👯 I’m looking to collaborate on ecology and math
 - 💬 Ask me about Touhou and Misttrain!
 - 📫 How to reach me: kogoorimasaki@outlook.com
+
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
