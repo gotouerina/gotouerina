@@ -4,6 +4,8 @@ I come from China,
 中文, English, にほんご ALL OK.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gotouerina)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kogoorimasaki@outlook.com)
+
 <p>
 Get my bachelor degree from Shanghai Jiaotong University.
 <img align="right" alt="img" src="https://github.com/gotouerina/Character-Set-of-My-Own/blob/main/Han-clothes/56.png" width="50%" height="auto" />
