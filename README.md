@@ -7,13 +7,13 @@ I come from China,
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kogoorimasaki@outlook.com)
 
 <p>
-Get my bachelor degree from Shanghai Jiaotong University.
+I get my bachelor's degree from Shanghai Jiaotong University.
 <img align="right" alt="img" src="https://github.com/gotouerina/Character-Set-of-My-Own/blob/main/Han-clothes/56.png" width="50%" height="auto" />
 
 gotouerina means 五島 絵梨奈 ,
 character in しんがつよか
 
-- 🔭 I’m currently studying my master degree in Lanzhou university
+- 🔭 I’m currently a master candidate in Lanzhou university
 - 🌱 I’m currently learning Perl, R, Unity
 - 👯 I’m looking to collaborate on Ecology and Math
 - 💬 Ask me about Touhou and Misttrain!
