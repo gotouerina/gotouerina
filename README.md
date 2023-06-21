@@ -11,12 +11,10 @@ Get my bachelor degree from Shanghai Jiaotong University.
 gotouerina means 五島 絵梨奈 ,
 character in しんがつよか
 
-
 - 🔭 I’m currently studying my master degree in Lanzhou university
-- 🌱 I’m currently learning perl, R
-- 👯 I’m looking to collaborate on ecology and math
+- 🌱 I’m currently learning Perl, R, Unity
+- 👯 I’m looking to collaborate on Ecology and Math
 - 💬 Ask me about Touhou and Misttrain!
-- 📫 How to reach me: kogoorimasaki@outlook.com
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -31,4 +29,8 @@ character in しんがつよか
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
+<br />
+<code><img width="11%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img width="11%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
 
+<sub> Reach me  : <br/> kogoorimasaki@outlook.com
