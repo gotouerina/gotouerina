@@ -30,9 +30,9 @@ gotouerina means 五島 絵梨奈
 
 
 <br />
-<code><img width="11%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="11%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 
 <br />
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
