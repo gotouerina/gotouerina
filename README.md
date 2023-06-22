@@ -1,7 +1,7 @@
 ### Hi there !
 ### This is gotouerina/kogoorimasaki 👋
 I come from China,
-中文, English, にほんご ALL OK.
+母语中文, and good at English, 日本語勉強します.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gotouerina)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kogoorimasaki@outlook.com)
