@@ -38,7 +38,6 @@ gotouerina means 五島 絵梨奈
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
 
-<sub> Reach me  : <br/> kogoorimasaki@outlook.com
 
 ### :hearts: [Acknowledgements](https://github.com/sponsors/Charmve)
 
@@ -58,4 +57,5 @@ gotouerina means 五島 絵梨奈
       <br />
       <a href="https://github.com/xiaolongliang">xiaolongliang</a>
     </td>
+
 
