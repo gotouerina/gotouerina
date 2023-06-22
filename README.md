@@ -45,9 +45,17 @@ gotouerina means 五島 絵梨奈
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CHYbeta](https://github.com/kuangzhuoran">
+      <a href="https://github.com/kuangzhuoran">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="kuangzhuoran"/>
       </a>
       <br />
       <a href="https://github.com/kuangzhuoran">kuangzhuoran</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/xiaolongliang">
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="xiaolongliang"/>
+      </a>
+      <br />
+      <a href="https://github.com/xiaolongliang">xiaolongliang</a>
+    </td>
+
