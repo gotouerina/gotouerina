@@ -1,5 +1,4 @@
-### Hi there !
-### This is gotouerina/kogoorimasaki 👋
+### This is gotouerina/kogoorimasaki 
 I come from China,
 母语中文, and good at English, 日本語勉強します.
 
