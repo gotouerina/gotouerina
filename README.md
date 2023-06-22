@@ -39,3 +39,15 @@ gotouerina means 五島 絵梨奈
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
 
 <sub> Reach me  : <br/> kogoorimasaki@outlook.com
+
+### :hearts: [Acknowledgements](https://github.com/sponsors/Charmve)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/CHYbeta](https://github.com/kuangzhuoran">
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="kuangzhuoran"/>
+      </a>
+      <br />
+      <a href="https://github.com/CHYbeta](https://github.com/kuangzhuoran">kuangzhuoran</a>
+    </td>
