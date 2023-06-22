@@ -1,4 +1,4 @@
-### This is gotouerina/kogoorimasaki 
+### 私は、誰？
 I come from China,
 母语中文, and good at English, 日本語勉強します.
 
