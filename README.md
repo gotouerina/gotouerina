@@ -11,6 +11,7 @@ I get my bachelor's degree from Shanghai Jiaotong University.
 <img align="right" alt="img" src="https://github.com/gotouerina/Character-Set-of-My-Own/blob/main/Han-clothes/56.png" width="50%" height="auto" />
 
 gotouerina means 五島 絵梨奈 ,
+
 しんがつよかのキャラクターでした
 
 - 🔭 I’m currently a master candidate in Lanzhou university
