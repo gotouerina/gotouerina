@@ -23,8 +23,9 @@ character in しんがつよか
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gotouerina" />
 <p>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/perl/perl-ar21.svg" ></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+
 
 <br />
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
